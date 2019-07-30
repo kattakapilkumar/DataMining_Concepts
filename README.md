@@ -1,5 +1,5 @@
 ## What Is Data Mining?
 
-  - George Washington
-  - John Adams
-  - Thomas Jefferson
+  - Knowledge Discovery Process (KDP)
+  - Data Mining Techniques
+  - Data Mining Applications
